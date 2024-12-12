@@ -1,7 +1,7 @@
 {
   "name": "boas_praticas_css",
   "version": "1.0.0",
-  "description": "Exercicio do módulo 19 sobre Boas práticas do CSS",
+  "description": "Exercicio para fazer a modelagem no BEM no main.css",
   "main": "index.js",
   "scripts": {
     "sass": "sass",
